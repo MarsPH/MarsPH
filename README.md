@@ -1,19 +1,19 @@
 # Mahan Poor Hamidian
 
-Hey there, and welcome to my little corner of code! I'm **Mahan**, a third-semester Computer Science student specializing in Game Development at LaSalle College here in Montreal. Originally from Iran, I came to Canada with a backpack full of dreams, some C# scripts, and a *terrible* sense of direction (Montreal's streets still get the best of me). But every line of code I write feels like building a new path forward.
-
+Hi there! Thanks for visiting. My name is **Mahan**. I love creating experiences in games and enjoy the entire process, from different levels of design to developing a complete game. I create experiences using Unity and Unreal Engine, and I have some experience with Godot as well, although not as much. Creating games is enjoyable for me, whether I'm working on a project making mini-games for my friends in Minecraft or designing maps in Fortnite!
 ---
 
 ## 🎮 About Me
 
-**Languages & Tools I Use:**
 <p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" alt="Unity" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/obsidian/obsidian-original.svg" alt="Obsidian" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original-wordmark.svg" alt="Unity" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original-wordmark.svg" alt="Unreal Engine" width="45" height="45"/>
 </p>
+
 
 Games aren't just about code; they're about stories, feelings, and the systems behind what players see. I'm learning to build *systems* that make sense, even if it means staring at a debugger at 2 AM.
 
