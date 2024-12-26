@@ -55,7 +55,7 @@ Created as the final team project for Game Engine I in Fall 2024.
 
 ### 🛠️ Technical Achievements:  
 - **Raycast Interaction:** Efficient and scalable object detection system.
-- **Working Inventory System: A reliable and beautiful inventory system to manage clues and tools.  
+- **Working Inventory System:** A reliable and beautiful inventory system to manage clues and tools.  
 - **Lighting Optimization:** Combined real-time and baked lighting for performance and atmosphere.  
 - **Puzzle Integration:** Designed puzzles requiring revisiting areas, enhancing complexity.  
 
@@ -142,12 +142,11 @@ The final project for Applied Mathematics for Video Games in the 2nd semester, S
 
 ## 🤝 Let’s Connect
 
-If you’re working on a game, tinkering with Unity, or just want to share ideas, I'd love to hear from you. Some of the best lessons come from unexpected conversations.
+Let's connect if you're working on a game, exploring Unity, or have ideas to share—collaboration and conversations often spark the best insights.
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mahanpoorhamidian"><img src="https://img.icons8.com/ios-filled/50/000000/linkedin.png" alt="LinkedIn"/></a>
-  <a href="mailto:mahanph@example.com"><img src="https://img.icons8.com/ios-filled/50/000000/email.png" alt="Email"/></a>
-  <a href="https://github.com/marsph"><img src="https://img.icons8.com/ios-filled/50/000000/github.png" alt="GitHub"/></a>
+  <a href="https://www.linkedin.com/in/mahan-poor-hamidian-b401a1276/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="45" height="45"/></a>
+  <a href="https://t.me/MahanPH"><img src="https://img.icons8.com/?size=100&id=ymzccwMmNkRx&format=png&color=000000" alt="Telegram" width="45" height="45"/></a>
 </p>
 
 ---
