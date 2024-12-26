@@ -1,8 +1,9 @@
 # Mahan Poor Hamidian
----
 
-Hi there! Thanks for visiting. My name is **Mahan**. I love creating experiences in games and enjoy the entire process, from different levels of design to developing a complete game. I create experiences using Unity and Unreal Engine, and I have some experience with Godot as well, although not as much. Creating games is enjoyable for me, whether I'm working on a project making mini-games for my friends in Minecraft or designing maps in Fortnite!
----
+<p style="font-size: 16px; line-height: 1.5;">
+Hi there! Thanks for visiting. My name is <strong>Mahan</strong>. I love creating experiences in games and enjoy the entire process, from different levels of design to developing a complete game. I create experiences using Unity and Unreal Engine, and I have some experience with Godot as well, although not as much. Creating games is enjoyable for me, whether I'm working on a project in game engines,or making mini-games for my friends in Minecraft or designing maps in Fortnite!
+</p>
+
 
 ## 🎮 About Me
 
@@ -15,49 +16,107 @@ Hi there! Thanks for visiting. My name is **Mahan**. I love creating experiences
 </p>
 
 
-Games aren't just about code; they're about stories, feelings, and the systems behind what players see. I'm learning to build *systems* that make sense, even if it means staring at a debugger at 2 AM.
+🕹️ **Gameplay Programming**  
+Specializing in crafting responsive character controllers, dynamic spawner systems, and fluid game mechanics, ensuring immersive player experiences.
 
----
+🌍 **Game Design & Level Design**  
+Designing intricate levels and engaging systems that balance creativity and challenge, creating a cohesive narrative and gameplay flow.
 
-## 🚀 Featured Project: Rocket Interceptor
+🔧 **System Design**  
+Building robust core systems like inventory management, save/load functionality, and event-driven architectures tailored for scalability and performance.
+
+⚙️ **Optimization & Debugging**  
+Profiling and fine-tuning performance by reducing draw calls, optimizing memory usage, and leveraging object pooling for seamless gameplay.
+
+💻 **Technical Tools**  
+Proficient in **Unity (C#)** and **Unreal Engine (C++)**.
+
+<p style="text-align: justify; line-height: 1.6; font-size: 16px;"> Whether I’m scripting in Unity (<strong>C#</strong>) or implementing systems in Unreal Engine (<strong>C++</strong>), I try to create cohesive gameplay experiences that every mechanic feels creative and polished </p>
+
+## 🗝️ Featured Project: Fugamé
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Rocket%20Interceptor&animation=fadeIn&type=waving&color=gradient&height=100"/>
+  <img src="https://capsule-render.vercel.app/api?text=Fugamé&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
 
-In a war-torn world, a young boy defends his imagined homeland by shooting down rockets. **Rocket Interceptor** was born from a mix of childhood dreams and my fascination with upgrade systems that *feel earned*.
+**Fugamé** is a first-person prison escape game developed in **Unity**, combining atmospheric level design, strategic gameplay, and narrative depth. Players navigate dark prison corridors, solve intricate puzzles, and manage resources while evading a stalking enemy. 
+Created as the final team project for Game Engine I in Fall 2024.
 
-- Players intercept incoming rockets in a toy-sized battlefield.
-- Points earned let you upgrade the boy's toy weapons—speed, accuracy, firepower, you name it.
-- The setting? The boy's messy room, where every upgrade feels like placing another brick in his imagined defense.
+### 🔑 Key Features:  
+- **Exploration:** First-person movement with raycast-based interaction for seamless object handling.  
+- **Dynamic Lighting:** Player-attached light source enhances tension and immersion.  
+- **Inventory System:** Modular design with dynamic item consumption and puzzle integration.  
+- **Narrative Elements:** Optional collectibles unravel the mysterious backstory of the prison.  
 
-Creating this taught me the power of iteration—especially in **balancing mechanics** so they don't just *work* but *feel good*. Also, I finally stopped hardcoding numbers everywhere (trust me, it was ugly).
+### 💻 My Role:  
+- **System Design:** Developed the modular inventory system with item tracking and puzzle integration.  
+- **UI/UX Development:** Designed an intuitive notebook system and consistent UI for inventory and interactions.  
+- **Technical Implementation:** Built reusable scripts for object interactions and collaborated on puzzle integration.  
 
-![Rocket Interceptor Gameplay GIF](https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif)
+### 🛠️ Technical Achievements:  
+- **Raycast Interaction:** Efficient and scalable object detection system.
+- **Working Inventory System: A reliable and beautiful inventory system to manage clues and tools.  
+- **Lighting Optimization:** Combined real-time and baked lighting for performance and atmosphere.  
+- **Puzzle Integration:** Designed puzzles requiring revisiting areas, enhancing complexity.  
 
-Check out the project: [Rocket Interceptor GitHub Repo](https://github.com/marsph/WarBirds)
 
----
+<p align="center">
+  <img src="https://media.giphy.com/media/JzRCMvZRDT0xPbWXPm/giphy.gif" alt="Fugamé Gameplay GIF"/>
+</p>
+
+Check out the project: <a href="https://github.com/KOMPOT-IZ-FIKUSA/Fugam-">Fugamé GitHub Repo</a>
+
+
 
 ## 🛠️ Other Projects
 
-### 🎲 **Custom Game Engine (Team Project)**
+### 🚀 Rocket Interception Simulation
+A personal project and my first Unity project, started in Summer 2024.
+Developed a physics-based rocket interception system in **Unity**, featuring:
 
-Working with classmates to build a game engine has been equal parts chaos and magic. Think late-night code reviews, disagreements over function names, and the satisfaction of seeing something—*anything*—run on screen. My biggest takeaway so far? That no matter how complex the system, **communication** is the real engine.
+- **Trajectory Tracking:** Predictive algorithms for rocket paths.
+- **Precision Targeting:** Laser, cannon, and curved missile mechanics for realistic interception.
+- **Refined Physics:** Speed, acceleration, and steering dynamics for immersive gameplay.
 
-### 🏗 **Minecraft Realm Builds**
-
-Somehow, Minecraft never leaves you. It's my digital sandbox for creativity—whether recreating places that feel like home or just trying out new mechanics. It reminds me that even the smallest block can be part of something big.
+[Explore the Rocket Interception Simulation Repository](https://github.com/MarsPH/counterPrototype)
 
 ---
 
-## 🧭 What I’m Learning Right Now
+### 🧠 XR Mental Support Prototype
+Collaborated on a prototype game for managing stress during emergencies.
+Designed during a game jam at the beginning of 2024.
 
-- **Refining upgrade systems**: Making player progress rewarding but challenging.
-- **UI/UX design in Unity**: Because good interfaces shouldn't feel like a battle.
-- **Git workflows**: Saving me (and my future self) from version control chaos.
+- **Hackathon Success:** Earned **runner-up** at the **McGill XR Hackathon**.
+- **Immersive Design:** Focused on creating an engaging, calming experience through immersive XR mechanics.
 
-Every game I build is a step forward, and even the failures teach me something. If you're building, learning, or even struggling to push through a bug, I get it—it's part of the process.
+---
+
+### 🐲 Monster Hunter Game
+Developed as the final solo project for Object-Oriented Programming II in Fall 2024.
+Designed and developed a **Monster Hunter** game using **MVC architecture**:
+
+- **DLL Integration:** Core game logic handled via a Dynamic Link Library.
+- **Multiplatform UI:** Console-based gameplay and **Windows Forms GUI** for rich user interaction.
+- **Advanced OOP:** Implemented character states and map-based interactions in **C#**.
+
+[Explore the Monster Hunter Game Repository](https://github.com/MarsPH/MahanPH_OOPII_MonsterHunter)
+
+---
+
+### ✈️ War Birds
+An engaging 2D action game developed in **Unity**, set in a war-torn country. Players control a truck equipped with an anti-air gun to defend against waves of enemy planes. Features wave-based progression, diverse enemy types, and interactive mechanics.
+The final project for Applied Mathematics for Video Games in the 2nd semester, Summer 2024.
+
+**Key Features:**
+
+- **Wave-Based Enemy Spawning:** Enemies increase in number and difficulty with each wave.
+- **Diverse Enemy Types:** Includes bombers, special A10s, and helicopters.
+- **Player Controls:** Smooth truck movement and shooting mechanics.
+- **Score System:** Implemented using ScriptableObjects.
+
+
+[Explore the War Birds Repository](https://github.com/MarsPH/WarBirds)
+
 
 ---
 
