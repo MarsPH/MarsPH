@@ -151,5 +151,3 @@ Let's connect if you're working on a game, exploring Unity, or have ideas to sha
 
 ---
 
-*Thanks for stopping by—here’s to writing better code, better games, and maybe finding your way through Montreal someday.*
-
