@@ -2,6 +2,8 @@
 
 <p style="font-size: 16px; line-height: 1.5;">
 Hi there! Thanks for visiting. My name is <strong>Mahan</strong>. I love creating experiences in games and enjoy the entire process, from different levels of design to developing a complete game. I create experiences using Unity and Unreal Engine, and I have some experience with Godot as well, although not as much. Creating games is enjoyable for me, whether I'm working on a project in game engines, or making mini-games for my friends in Minecraft or designing maps in Fortnite!
+
+I'm currently studying at **Collège LaSalle**, expecting to graduate in **May 2026**. I'm actively looking for **job opportunities** and **internships** in **game development, gameplay programming, and system design**. If you're interested in collaborating, feel free to reach out!
 </p>
 
 ## 🌐 Portfolio  
