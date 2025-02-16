@@ -8,12 +8,12 @@ I'm currently studying at **Collège LaSalle**, expecting to graduate in **May 2
 
 ## 🌐 Portfolio  
 
-🎮 **Check out my work:**  
 <p align="center">
   <a href="https://marsph.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/🌍-Visit%20My%20Portfolio-blue?style=for-the-badge" alt="Portfolio Link"/>
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=100&section=header&text=🚀%20Visit%20My%20Portfolio!&fontSize=30&fontColor=ffffff" alt="Portfolio Banner"/>
   </a>
 </p>
+
 
 ## 🛠️ Skills & Tech Stack  
 
