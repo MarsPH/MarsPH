@@ -118,7 +118,7 @@ I'm currently studying at **Collège LaSalle**, expecting to graduate in **May 2
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marsph&layout=compact&theme=radical" alt="Top Languages"/>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marsph&layout=compact&theme=radical&hide=ShaderLab,HLSL,ASP.NET,C,CMake" alt="Top Languages"/>
 </p>
 
 ---
