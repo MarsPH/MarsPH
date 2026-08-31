@@ -113,12 +113,19 @@ I'm currently studying at **Collège LaSalle**, expecting to graduate in **May 2
 ---  
 
 ## 📊 My GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=marsph&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img
+    src="https://github-stats-extended.vercel.app/api?username=marsph&amp;show_icons=true&amp;theme=radical"
+    alt="GitHub Stats"
+  />
 </p>
 
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marsph&layout=compact&theme=radical&hide=ShaderLab,HLSL,ASP.NET,C,CMake" alt="Top Languages"/>
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs?username=marsph&amp;layout=compact&amp;theme=radical&amp;hide=ShaderLab%2CHLSL%2CASP.NET%2CC%2CCMake"
+    alt="Top Languages"
+  />
 </p>
 
 ---
